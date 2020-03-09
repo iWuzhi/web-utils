@@ -1,5 +1,5 @@
 {
-  "name": "@web-utils/regexp",
+  "name": "web-utils-regexp",
   "version": "0.0.4",
   "description": "> TODO: description",
   "author": "iWuzhi <2461358597@qq.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/iWuzhi/web-utils/issues"
   },
-  "gitHead": "995a390eac3845c2220b3289dd83500a9d7dba93"
+  "gitHead": "62aff03f11b380bcdfbdfff08d06f12a370e7a24"
 }
