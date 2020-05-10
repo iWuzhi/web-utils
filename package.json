@@ -1,7 +1,13 @@
 {
-  "name": "root",
-  "private": false,
+  "name": "web-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iWuzhi/web-utils.git",
+  "author": "iWuzhi <Kaer_600776@163.com>",
+  "license": "MIT",
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^26.0.1"
   }
 }
